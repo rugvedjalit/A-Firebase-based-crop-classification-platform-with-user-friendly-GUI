@@ -48,6 +48,11 @@ To run the project locally, follow these steps:
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests with any improvements or new features.
 
+## Web App
+<h1 align=center>
+<img align ="center" alt="coding" width="500" src="https://github.com/rugvedjalit/A-Firebase-based-crop-classification-platform-with-user-friendly-GUI/blob/main/Media-Gallery/Web%20App.gif">
+</h1>
+
 ## Contact:
 
 For inquiries or collaboration opportunities, please contact rugwedjalit@gmail.com.
